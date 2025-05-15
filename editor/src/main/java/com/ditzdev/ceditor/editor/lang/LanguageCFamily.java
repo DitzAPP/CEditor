@@ -8,7 +8,7 @@
  */
 package com.ditzdev.ceditor.editor.lang;
 
-import com.ditzdev.ceditor.editor.Tokenizer;
+import com.ditzdev.ceditor.editor.util.Tokenizer;
 
 import java.util.HashMap;
 

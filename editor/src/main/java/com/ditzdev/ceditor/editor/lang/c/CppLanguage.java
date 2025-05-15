@@ -1,7 +1,7 @@
-package cn.rbc.codeeditor.lang.c;
+package com.ditzdev.ceditor.editor.lang.c;
 
-import cn.rbc.codeeditor.lang.*;
-import cn.rbc.codeeditor.util.*;
+import com.ditzdev.ceditor.editor.lang.*;
+import com.ditzdev.ceditor.editor.util.*;
 
 public class CppLanguage extends Language{
 	private static Language _theOne = null;
