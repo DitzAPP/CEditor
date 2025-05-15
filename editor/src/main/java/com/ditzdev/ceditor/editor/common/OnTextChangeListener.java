@@ -1,6 +1,6 @@
 package com.ditzdev.ceditor.editor.common;
 
-import cn.rbc.codeeditor.util.*;
+import com.ditzdev.ceditor.editor.util.*;
 
 public interface OnTextChangeListener {
 	//void onBeginBatch();

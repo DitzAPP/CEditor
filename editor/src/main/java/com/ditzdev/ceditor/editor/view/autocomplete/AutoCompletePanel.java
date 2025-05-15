@@ -11,7 +11,7 @@ import android.widget.Filter;
 import android.widget.ListPopupWindow;
 import android.widget.TextView;
 
-import cn.rbc.termuc.R;
+import com.ditzdev.ceditor.editor.R;
 import com.ditzdev.ceditor.editor.lang.Language;
 import com.ditzdev.ceditor.editor.lang.LanguageNonProg;
 import com.ditzdev.ceditor.editor.view.FreeScrollingTextField;

@@ -18,7 +18,7 @@ import android.widget.Filterable;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import cn.rbc.termuc.R;
+import com.ditzdev.ceditor.editor.R;
 import com.ditzdev.ceditor.editor.util.Flag;
 import com.ditzdev.ceditor.editor.view.FreeScrollingTextField;
 

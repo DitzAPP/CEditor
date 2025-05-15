@@ -13,7 +13,7 @@ import com.ditzdev.ceditor.editor.lang.Language;
 import java.util.List;
 import java.util.Vector;
 import java.util.stream.*;
-import com.ditzdev.ceditor.common.*;
+import com.ditzdev.ceditor.editor.common.*;
 
 
 //TODO Have all methods work with charOffsets and move all gap handling to logicalToRealIndex()
