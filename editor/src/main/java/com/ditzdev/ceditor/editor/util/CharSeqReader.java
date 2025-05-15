@@ -1,7 +1,7 @@
 package com.ditzdev.ceditor.editor.util;
 
 import java.io.*;
-import cn.rbc.codeeditor.lang.*;
+import com.ditzdev.ceditor.editor.lang.*;
 
 public class CharSeqReader extends Reader {
 	int offset = 0;
